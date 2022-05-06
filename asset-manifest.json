@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BXV2000/portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/BXV2000/portfolio/static/js/main.2ed1f6e7.js",
+    "static/js/787.1ed0c42c.chunk.js": "/BXV2000/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/logo.svg": "/BXV2000/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/BXV2000/portfolio/index.html",
+    "main.073c9b0a.css.map": "/BXV2000/portfolio/static/css/main.073c9b0a.css.map",
+    "main.2ed1f6e7.js.map": "/BXV2000/portfolio/static/js/main.2ed1f6e7.js.map",
+    "787.1ed0c42c.chunk.js.map": "/BXV2000/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2ed1f6e7.js"
+  ]
+}
